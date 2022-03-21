@@ -41,6 +41,7 @@ def Menu():
     print("2. Print Students.")
     print("3. Search Student by name.")
     print("4. Modify grade by name.")
+    print("5. Sort list by name.")
     print("0. Exit Menu.")
 option=1
 Menu()
